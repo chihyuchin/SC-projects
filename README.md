@@ -6,14 +6,14 @@ Watch the *[Demo Video](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 
 ## Project Source Codes:
 *[Hangman Game](https://github.com/chihyuchin/SC-projects/blob/main/SC-projects/hangman/hangman.py)*\
-- python semantics & syntax
+- python semantics & syntax\
 *[Weather Master](https://github.com/chihyuchin/SC-projects/blob/main/SC-projects/weather_master/weather_master.py)*\
-- python semantics & syntax
+- python semantics & syntax\
 *[My Photoshop](https://github.com/chihyuchin/SC-projects/blob/main/SC-projects/my_photoshop/stanCodoshop.py)*\
-- image processing
+- image processing\
 *[Breakout Game](https://github.com/chihyuchin/SC-projects/blob/main/SC-projects/break_out_game/breakout.py)*\
-- animation & game designing
+- animation & game designing\
 *[Name Popularity Searching System](https://github.com/chihyuchin/SC-projects/blob/main/SC-projects/name_searching_system/babygraphics.py)*\
-- data structure
+- data structure\
 *[Boggle Game Solver](https://github.com/chihyuchin/SC-projects/blob/main/SC-projects/boggle_game_solver/boggle.py)*\
 - recursive functions
