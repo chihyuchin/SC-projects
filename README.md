@@ -7,7 +7,7 @@ Watch the *[Demo Video](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 ## Project Source Codes:
 
 - [Hangman Game](https://github.com/chihyuchin/SC-projects/blob/main/SC-projects/hangman/hangman.py)
-  - python semantics & syntax\
+  - python semantics & syntax
 - [Weather Master](https://github.com/chihyuchin/SC-projects/blob/main/SC-projects/weather_master/weather_master.py)
   - python semantics & syntax\
 - [My Photoshop](https://github.com/chihyuchin/SC-projects/blob/main/SC-projects/my_photoshop/stanCodoshop.py)
