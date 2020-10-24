@@ -5,7 +5,7 @@ This repository contains some of my programming projects during the period of st
 Watch the *[Demo Video](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
 
 ## Project Source Codes:
-*[Hangman Game](https://github.com/chihyuchin/SC-projects/blob/main/SC-projects/hangman/hangman.py)*
+*[Hangman Game](https://github.com/chihyuchin/SC-projects/blob/main/SC-projects/hangman/hangman.py)
 - python semantics & syntax\
 *[Weather Master](https://github.com/chihyuchin/SC-projects/blob/main/SC-projects/weather_master/weather_master.py)*
 - python semantics & syntax\
